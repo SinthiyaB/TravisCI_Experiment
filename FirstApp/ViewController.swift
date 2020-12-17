@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Changes from feature branch 1")
+        print("Changes from master")
     }
 }
 
