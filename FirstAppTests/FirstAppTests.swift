@@ -30,6 +30,6 @@ class FirstAppTests: XCTestCase {
     
     func testConversionForTwo() {
       let result = converter.convert(2)
-      XCTAssertEqual(result, "III", "Conversion for 2 is incorrect")
+      XCTAssertEqual(result, "IIII", "Conversion for 2 is incorrect")
     }
 }
